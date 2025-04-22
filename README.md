@@ -1,4 +1,4 @@
-﻿# Neural Network From Scratch - Deep Learning Assignment 1
+﻿# Neural Network From Scratch
 
 This project implements a fully connected neural network (FCNN) **from scratch in NumPy**. The objective was to deeply understand forward and backward propagation, including enhancements like Batch Normalization and L2 Regularization.
 
